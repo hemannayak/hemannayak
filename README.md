@@ -38,24 +38,6 @@ Git & GitHub • Jupyter • Google Colab • VS Code • Figma • Canva
 
 ---
 
-## 💼 Experience
-
-### 🧠 AI & Prompt Engineering Intern @VaultofCodes _(Jun 2025 – Present)_
-- Designing smart prompts, creating automation content, working on web dev tasks in parallel
-
-### 🌍 Student HOD – CSE (Data Science) @HITAM _(May 2025 – Present)_
-- Leading academic events, mentoring peers, bridging faculty-student communication
-
-### 🧑‍💻 Web Dev Intern @EISystems Technologies _(Apr – May 2025)_
-- Built responsive sites using HTML, CSS, Bootstrap for real-world client simulations
-
-### 👨‍🏫 AI Creators Internship @Swecha _(Aug 2024)_
-- Built front-end components in React for open-source projects
-
-### 🤝 IUCEE Member @HITAM Chapter _(Jan 2024 – Present)_
-- Driving engineering for social good with collaboration and project execution
-
----
 
 ## 📂 Highlight Projects
 
