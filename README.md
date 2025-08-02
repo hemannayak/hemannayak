@@ -1,104 +1,27 @@
-# 👋 Hey there, I'm Hemanth Nayak!
+# 💫 About Me:
+🔭 I’m currently working on<br>A full-stack web app called MoodMate — a mood tracker & journal using React, Spring Boot, MongoDB, and JWT authentication. Also building my personal brand as a resume designer, content writer, and @hem_writess poet.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Projects in web dev, UI/UX design, data science, or anything that involves creativity + tech. Also open to co-writing poetry or personal essays for newsletters or zines.<br><br>🤝 I’m looking for help with<br>Backend optimisation, deployment strategies (Spring Boot + MongoDB), and cracking the job search game (LinkedIn growth, networking, referrals).<br><br>🌱 I’m currently learning<br>Advanced React (hooks, context, animations), Spring Boot with security, MongoDB queries, and content strategy for personal branding. Also improving my spoken English and leadership skills as Student HOD.<br><br>💬 Ask me about<br>Resume writing, Canva/PPT designs, creative writing, or how to bounce back like a boss after betrayal and burnout 😤💥<br><br>⚡ Fun fact<br>I write poems that feel like heartbreak and healing had a baby — and I’ve turned that into a voice called @hem_writess that people say "feels like it knows them."
 
-**BTech CSE – Data Science | SSG Student HOD @ HITAM | AI & Prompt Intern @VaultofCodes | Web Dev Intern @EISystems | Writer @hem_writess**
 
-Welcome to my GitHub! I’m on a mission to bridge tech, leadership, and storytelling — building projects that speak for themselves, leading teams that leave a mark, and writing words that heal. This space is where ideas become proof-of-work.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/heyy__heman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pangoth-hemanth-nayak-13195228b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:official.hemanthnayakpangoth@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hemannayak&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hemannayak&theme=solarized-light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemannayak&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hemannayak&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 🎯 **Currently:** Working on AI Prompt Engineering, Web Dev projects & DSA 90-day streak
-- 🧠 **Learning:** Machine Learning, Tableau Dashboards, Java (Spring Boot), DAA, CN, IDS
-- 📊 **DS Student HOD:** Leading SSG_CSD '25 – building bridges between students and faculty
-- ✍️ **Writer:** [@hem_writess](https://www.instagram.com/hem_writess) – for the overthinkers, heart-healers, and night-feelers
-- 🎤 **Speaking & Strategy:** Hosting sessions, coordinating events, leading with empathy
-- 💥 **Goal:** Grow loud enough with skills that silence every doubt ever thrown at me.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python) 
-![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java) 
-![C](https://img.shields.io/badge/C-grey?style=flat-square&logo=c)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)  
-![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=sqlite)
-
-### 🌐 Web & Frameworks
-React.js • Tailwind CSS • Bootstrap • HTML5 • CSS3 • Django • Spring Boot
-
-### 📊 Data & Analytics
-Tableau • Supabase • MySQL • PostgreSQL • Excel • Statistics • Data Modeling
-
-### 🧰 Tools & Platforms
-Git & GitHub • Jupyter • Google Colab • VS Code • Figma • Canva
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hemannayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hemannayak&icon=0&color=1)](https://visitcount.itsvg.in)
 
-
-## 📂 Highlight Projects
-
-### 🎮 LevelUp Learning – Gamified E-Learning App
-*React, TypeScript, Tailwind, Java Spring Boot, Supabase*  
-🔗 Gamification | XP, badges, leaderboard | Secure Auth | Personalized Dashboards
-
-### 🏛️ Indian Heritage & Culture Website (SIH 2024)
-*HTML, CSS, JS*  
-🔗 Hackathon Project | Showcasing India’s diversity | Visual storytelling + interactivity
-
-### 🌐 Personal Portfolio Website
-*HTML, CSS, JS*  
-🔗 Clean, responsive portfolio to reflect my journey, skills & vibe
-
-### 🏥 Hospital Management System
-*Java, DBMS, JavaScript*  
-🔗 Doctor-Patient Scheduling | Dual modules | DB integration
-
-### 🛒 E-commerce Website Using Django
-*Python, Django, MySQL*  
-🔗 Auth | Product Catalog | Cart | Admin Dashboard
-
----
-
-## 📈 GitHub Stats
-
-![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanthnayak&show_icons=true&theme=radical)
-
----
-
-## ✨ Certifications & Simulations
-
-- 📊 Deloitte AU – Data Analytics Virtual Experience  
-- 🛠️ Accenture UK – Intro to Tech Apprenticeship Simulation  
-- 🎓 PCAP: Python Essentials Certified  
-- 💻 LinkedIn Learning – Web Dev + CSS Mastery  
-- 💡 Google – Introduction to Generative AI
-
----
-
-## 🧠 Core Skills
-
-| Tech Stack | Leadership | Soft Skills |
-|------------|------------|-------------|
-| Python, Java, SQL, JS | Student Governance (HOD) | Public Speaking |
-| React, Spring Boot, Django | Strategic Planning | Time Management |
-| Tableau, Supabase, MySQL | Team Management | Communication |
-| Git & GitHub, DBMS, Tailwind | Project Ownership | Problem Solving |
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hemanth-nayak7)  
-- 📬 [Email](mailto:official.hemanthnayakpangoth@gmail.com)  
-- 📷 [Instagram: @hem_writess](https://instagram.com/hem_writess)  
-- 🌍 [Portfolio site coming soon…]
-
----
-
-> “Proof of work beats proof of talk — always.”  
-> — *Hemanth Nayak*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
