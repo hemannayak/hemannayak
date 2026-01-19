@@ -1,5 +1,66 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Data Analytics, Machine Learning & NLP projects using real datasets<br>Full-stack applications built with Python and Java<br>Hackathon-oriented projects with real-world impact<br><br>👯 I’m looking to collaborate on<br>Data Science & Machine Learning projects<br>NLP-based applications<br>Full-stack projects (Python / Java backends)<br>Hackathons & research-driven problem statements<br><br>🤝 I’m looking for help with<br>Improving ML/NLP model performance<br>System design for student-level full-stack projects<br>Research-oriented NLP experimentation<br><br>🌱 I’m currently learning<br>Advanced Machine Learning & NLP pipelines<br>Full-stack development using Python & Java<br>Research workflows in NLP<br>Vibe coding using modern AI-assisted tools to improve productivity and rapid prototyping<br><br>💬 Ask me about<br>Data Analytics<br>Machine Learning<br>NLP<br>Python & Java projects<br>Hackathons & student research<br><br>📫 How to reach me<br>Email: official.hemanthnayakpangoth@gmail.com<br><br>👨‍💻 All of my projects are available at<br>Portfolio: https://hemanthnayak7.vercel.app<br>GitHub: https://github.com/hemannayak<br><br>📄 Know about my experiences<br>Research Intern (NLP) – IIIT Hyderabad (IIITH)<br>Multiple internships & hackathons in Data Science & Web Development
+# 👋 Hi, I’m Pangoth Hemanth Nayak
+
+### **Prefinal-Year BTech CSE (Data Science) Student | Python • Java • Data Analytics • ML • NLP | Full-Stack Projects**
+
+> **"Transforming data into insights and code into impact. Bridging the gap between Research and Real-World Application."**
+
+---
+
+### 💫 About Me
+
+* **🔭 Current Endeavors:**
+* **Research Residency:** Currently serving as an **NLP Research Intern at IIIT Hyderabad (IIITH)**, focusing on advanced text data pipelines.
+* **Intelligent Systems:** Developing **Machine Learning & NLP** solutions using real-world, high-dimensional datasets.
+* **Full-Stack Engineering:** Building scalable applications with **Python and Java** backends.
+* **Rapid Prototyping:** Actively competing in high-stakes hackathons to solve complex problem statements under pressure.
+
+
+* **👯 Collaboration Interests:**
+* **Research & AI:** Open to collaborating on **NLP research** papers and ML-driven problem statements.
+* **Product Development:** Full-stack projects requiring robust Python or Java architectures.
+* **Hackathon Teams:** Looking for ambitious developers to tackle data-centric challenges.
+
+
+* **🌱 Continuous Learning:**
+* **Deep Learning:** Mastering advanced NLP pipelines and model optimization.
+* **System Design:** Exploring architectural patterns for production-grade student projects.
+* **Vibe Coding:** Leveraging AI-assisted tools (Cursor, LLMs, workflow automation) to maximize developer productivity and rapid prototyping.
+
+
+* **💬 Let’s Talk About:**
+* **Data Science:** Analytics, visualization, and predictive modeling.
+* **The NLP Stack:** Sentiment analysis, transformers, and text preprocessing.
+* **Tech Foundations:** Developing with Python, Java, and modern web frameworks.
+* **Student Research:** How to navigate internships and research workflows.
+
+
+
+---
+
+### 📄 Professional Experience
+
+* **Research Intern (NLP)** | *IIIT Hyderabad (IIITH)*
+* **Data Science & Web Dev Intern** | *Industry Exposure Initiatives*
+* **Hackathon Veteran** | *Multiple wins and participations in national-level events*
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="[https://linkedin.com/in/phemanthnayak](https://www.google.com/search?q=https://linkedin.com/in/phemanthnayak)" target="_blank">
+<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn" />
+</a>
+<a href="[https://hemanthnayak7.vercel.app](https://hemanthnayak7.vercel.app)" target="_blank">
+<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite)" alt="Portfolio" />
+</a>
+<a href="mailto:official.hemanthnayakpangoth@gmail.com">
+<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite)" alt="Email" />
+</a>
+</p>
+
+---
+
 
 
 ## 🌐 Socials:
