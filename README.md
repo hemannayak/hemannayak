@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Pangoth Hemanth Nayak
 
-### **Prefinal-Year BTech CSE (Data Science) Student | Python • Java • Data Analytics • ML • NLP | Full-Stack Projects**
+### **Final-Year BTech CSE (Data Science) Student | Python • Java • Data Analytics • ML • NLP | Full-Stack Projects**
 
 > **"Transforming data into insights and code into impact. Bridging the gap between Research and Real-World Application."**
 
